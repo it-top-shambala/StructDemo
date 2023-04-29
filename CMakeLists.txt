@@ -3,4 +3,4 @@ project(StructDemo)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(StructDemo main.cpp)
+add_executable(StructDemo main.cpp Person.h Date.h)
